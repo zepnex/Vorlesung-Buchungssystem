@@ -7,7 +7,7 @@
 <Gebäudename> name of the hal l<br>
 <Verordnung> 3G or 2G <br>
 ## set date
-set-date <Datum> 
+set-date <<Datum>> 
 
 ## Add Person to system
 add-person <Rolle>;<Vorname>;<Nachname>
