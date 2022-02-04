@@ -2,7 +2,7 @@
 
 ## Platzhalter
 Datum date from 1 to 365 <br>
-Roll> security, lecturer, student <br>
+Rolle security, lecturer, student <br>
 3G-Nachweis tested, recovered, vaccinated <br>
 Gebäudename name of the hall <br>
 Verordnung 3G or 2G <br>
